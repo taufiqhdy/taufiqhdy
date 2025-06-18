@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to live a life
 
 ![tes](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRjcW4wNXdkOXRudzFhNzNrcnhhbjZreWlhMTVieWE3aWRzaGtzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jVajUykLpFTMQM/giphy.gif)
+
+[![Taufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufiqhdy)](https://github.com/taufiqhdy/github-readme-stats)
