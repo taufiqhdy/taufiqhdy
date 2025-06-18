@@ -1,4 +1,5 @@
 ## Hi there 👋
+![taufiqhdy](img/image1.png)
 
 <!--
 **taufiqhdy/taufiqhdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Myself
+
+- 🌱 I’m currently learning how to live a life
+
+![tes](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRjcW4wNXdkOXRudzFhNzNrcnhhbjZreWlhMTVieWE3aWRzaGtzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jVajUykLpFTMQM/giphy.gif)
